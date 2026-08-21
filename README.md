@@ -15,7 +15,7 @@
 
 <p align="center">
   <img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-8468FF?style=flat-square">
-  <img alt="Windows 10 and 11" src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Windows 11" src="https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white">
   <img alt="Requires OmniShade" src="https://img.shields.io/badge/requires-OmniShade%201.0.0%2B-54D6FF?style=flat-square">
   <img alt="Shader-only" src="https://img.shields.io/badge/package-shader--only-8468FF?style=flat-square">
   <img alt="Five languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-6A5BDB?style=flat-square">
@@ -65,7 +65,11 @@ Screen-space effects cannot see hidden/off-screen geometry or reconstruct data t
 
 ## Requirements
 
-OmniVisuals requires OmniShade 1.0.0 or newer in the target game. Setup verifies the configuration and runtime before installation. Results and cost depend on resolution, GPU, game buffers, HDR mode and selected effects.
+OmniVisuals requires Windows 11 and OmniShade 1.0.0 or newer in the target
+game. Setup verifies the configuration and runtime before installation.
+Windows 10 may still run, but it is no longer an active development or release-
+qualification target. Results and cost depend on resolution, GPU, game buffers,
+HDR mode and selected effects.
 
 ## Get OmniVisuals
 
