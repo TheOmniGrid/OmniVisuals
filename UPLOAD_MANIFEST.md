@@ -19,11 +19,11 @@ Upload only the contents of this `public-github` folder.
 - `UPLOAD_MANIFEST.md`
 - `REPOSITORY_NOTICE.md`
 - `LICENSE.md`
-- `media/omnivisuals-icon.png`
-- `media/omnivisuals-symbol.png`
-- `media/omnivisuals-installer-target.jpg`
-- `media/omnivisuals-readme-header.svg`
-- `media/support-patreon.svg`
-- `media/support-kofi.svg`
+- `assets/omnivisuals-icon.png`
+- `assets/omnivisuals-symbol.png`
+- `assets/omnivisuals-installer-target.jpg`
+- `assets/omnivisuals-readme-header.svg`
+- `assets/support-patreon.svg`
+- `assets/support-kofi.svg`
 
 Before publishing, replace every bracketed publication placeholder and confirm that the repository contains no `.fx`, `.fxh`, texture, LUT, preset, installer, ZIP, source, private key, Patreon attachment or Ko-fi delivery URL.
