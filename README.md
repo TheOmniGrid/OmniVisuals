@@ -8,9 +8,9 @@
 <p align="center">Part of the <a href="#the-omnivex-suite">OmniVex</a> suite.</p>
 
 <p align="center">
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="media/support-patreon.svg" height="58" alt="Support OmniVisuals on Patreon"></a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/theomnigrid"><img src="media/support-kofi.svg" height="58" alt="Support OmniVisuals on Ko-fi"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
+  &nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
 <p align="center">
