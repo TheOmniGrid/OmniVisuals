@@ -1,5 +1,12 @@
 # Frequently asked questions
 
+## Which Windows version is targeted?
+
+Windows 11 is OmniVisuals' primary supported, development and release-
+qualification target. Windows 10 may continue to run, but new compatibility
+claims and release testing no longer target it, so it is best-effort and not
+guaranteed.
+
 ## Does OmniVisuals include OmniShade?
 
 No. Install OmniShade 1.0.0 or newer in the game first. OmniVisuals Setup refuses to continue without a valid OmniShade configuration and runtime.
