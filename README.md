@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner-animated.gif" width="100%" alt="OmniVisuals — a coherent visual suite for OmniShade">
+  <img src="assets/banner-animated.gif" width="100%" alt="OmniVisuals — a coherent visual suite for OmniShade">
 </p>
 
 <h1 align="center">OmniVisuals</h1>
@@ -28,6 +28,7 @@
   <a href="#get-omnivisuals"><img alt="Get OmniVisuals" src="https://img.shields.io/badge/%E2%86%93%20Get%20OmniVisuals-8468FF?style=for-the-badge"></a>
   <a href="#highlights"><img alt="Features" src="https://img.shields.io/badge/Features-25213B?style=for-the-badge"></a>
   <a href="SHADERS.md"><img alt="Shaders" src="https://img.shields.io/badge/Shaders-25213B?style=for-the-badge"></a>
+  <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-25213B?style=for-the-badge"></a>
   <a href="#honest-rendering-boundary"><img alt="Limitations" src="https://img.shields.io/badge/Limitations-25213B?style=for-the-badge"></a>
   <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-25213B?style=for-the-badge"></a>
   <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-25213B?style=for-the-badge"></a>
@@ -35,9 +36,10 @@
   <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-25213B?style=for-the-badge"></a>
 </p>
 
-> **Documentation repository.** OmniVisuals shader source, textures, presets, installer and release archives are not hosted on GitHub. Official distribution remains outside GitHub; the OmniVex donation links are below.
+> [!IMPORTANT]
+> **Documentation-only repository.** This public repository contains OmniVisuals documentation, approved artwork, and screenshots—not shader source, textures, presets, installers, or release archives. Official distribution remains outside GitHub.
 
-![OmniVisuals installer verifying OmniShade](media/omnivisuals-installer-target.jpg)
+![OmniVisuals installer verifying OmniShade](assets/omnivisuals-installer-target.jpg)
 
 ## One suite, one rendering language
 
@@ -57,22 +59,22 @@ OmniVisuals is an original clean-room shader suite designed specifically for Omn
 - Shader-only installation: no DLLs, hooks, APIs or add-ons.
 - English, German, Spanish, French and Romanian installer UI.
 
-## Requirements
-
-OmniVisuals requires OmniShade 1.0.0 or newer in the target game. Setup verifies the configuration and runtime before installation. Results and cost depend on resolution, GPU, game buffers, HDR mode and selected effects.
-
 ## Honest rendering boundary
 
 Screen-space effects cannot see hidden/off-screen geometry or reconstruct data the game never exposes. AutoLook cannot know monitor calibration or artistic intent from pixels alone. OmniVisuals supplies robust starting points, not a universal one-click guarantee.
+
+## Requirements
+
+OmniVisuals requires OmniShade 1.0.0 or newer in the target game. Setup verifies the configuration and runtime before installation. Results and cost depend on resolution, GPU, game buffers, HDR mode and selected effects.
 
 ## Get OmniVisuals
 
 OmniVisuals 1.0.0 is **free donationware**: payment is not required, there are no ads, and support is entirely optional. If it is useful to you and you want to fund continued work, use either official page:
 
 <p align="center">
-  <a href="https://www.patreon.com/TheOmniGrid"><img src="media/support-patreon.svg" height="64" alt="Support OmniVisuals on Patreon"></a>
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/support-patreon.svg" height="64" alt="Support OmniVisuals on Patreon"></a>
   &nbsp;&nbsp;
-  <a href="https://ko-fi.com/theomnigrid"><img src="media/support-kofi.svg" height="64" alt="Support OmniVisuals on Ko-fi"></a>
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/support-kofi.svg" height="64" alt="Support OmniVisuals on Ko-fi"></a>
 </p>
 
 GitHub contains no source, installer release or download mirror.
@@ -81,8 +83,11 @@ GitHub contains no source, installer release or download mirror.
 
 - [Feature overview](FEATURES.md)
 - [Shader guide](SHADERS.md)
+- [Privacy](PRIVACY.md)
 - [Frequently asked questions](FAQ.md)
 - [Support](SUPPORT.md)
+- [Security](SECURITY.md)
+- [Contributing](CONTRIBUTING.md)
 - [1.0.0 highlights](CHANGELOG.md)
 - [Documentation license](LICENSE.md)
 - [Repository and licensing notice](REPOSITORY_NOTICE.md)
