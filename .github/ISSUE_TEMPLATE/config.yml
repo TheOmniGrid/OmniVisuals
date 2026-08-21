@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report
+    url: https://github.com/TheOmniGrid/OmniVisuals/blob/main/SECURITY.md
+    about: Use the private reporting instructions for suspected vulnerabilities.
+  - name: Support development on Patreon
+    url: https://www.patreon.com/TheOmniGrid
+    about: Optional support; payment is not required.
+  - name: Support development on Ko-fi
+    url: https://ko-fi.com/theomnigrid
+    about: Optional support; payment is not required.

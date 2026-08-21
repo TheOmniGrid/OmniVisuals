@@ -1,0 +1,57 @@
+name: OmniVisuals bug report
+description: Report a reproducible shader, preset, installer or compatibility problem.
+title: "[Bug] "
+labels:
+  - bug
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve OmniVisuals. Do not upload private shaders, presets, installers, archives or delivery links. Remove personal information from logs and screenshots.
+  - type: input
+    id: versions
+    attributes:
+      label: OmniShade and OmniVisuals versions
+      placeholder: "OmniShade 1.0.0.0; OmniVisuals 1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game and version
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Include Windows version, GPU/driver, renderer, resolution and SDR/HDR mode.
+    validations:
+      required: true
+  - type: input
+    id: profile
+    attributes:
+      label: Profile and enabled effects
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Explain the smallest reliable sequence that shows the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Public-file check
+      options:
+        - label: I removed personal information and did not attach private product files or delivery links.
+          required: true
