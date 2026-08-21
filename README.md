@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/omnivisuals-readme-header.svg" width="100%" alt="OmniVisuals — a coherent visual suite for OmniShade">
+  <img src="media/banner-animated.gif" width="100%" alt="OmniVisuals — a coherent visual suite for OmniShade">
 </p>
 
 <h1 align="center">OmniVisuals</h1>
