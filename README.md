@@ -5,6 +5,7 @@
 <h1 align="center">OmniVisuals</h1>
 
 <p align="center"><strong>A coherent visual suite for OmniShade — 4K-focused lighting, reflections, atmosphere, reconstruction, color and HDR with clear performance paths.</strong></p>
+<p align="center">Part of the <a href="#the-omnivex-suite">OmniVex</a> suite.</p>
 
 <p align="center">
   <a href="https://www.patreon.com/TheOmniGrid"><img src="media/support-patreon.svg" height="58" alt="Support OmniVisuals on Patreon"></a>
@@ -85,3 +86,12 @@ GitHub contains no source, installer release or download mirror.
 - [1.0.0 highlights](CHANGELOG.md)
 - [Documentation license](LICENSE.md)
 - [Repository and licensing notice](REPOSITORY_NOTICE.md)
+
+## The OmniVex suite
+
+OmniVisuals is one of a family of tools sharing a design language and a philosophy —
+modern, fast, no telemetry:
+
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniWrappers**
+
+<sub>**OmniWrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
