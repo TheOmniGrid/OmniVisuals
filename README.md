@@ -25,11 +25,11 @@
 <!-- Quick navigation. These chips jump to a README section or maintained
      document. Keep fragment links aligned with GitHub's heading slugs. -->
 <p align="center">
-  <a href="#getting-omnivisuals"><img alt="Get OmniVisuals" src="https://img.shields.io/badge/%E2%86%93%20Get%20OmniVisuals-8468FF?style=for-the-badge"></a>
+  <a href="#get-omnivisuals"><img alt="Get OmniVisuals" src="https://img.shields.io/badge/%E2%86%93%20Get%20OmniVisuals-8468FF?style=for-the-badge"></a>
   <a href="#highlights"><img alt="Features" src="https://img.shields.io/badge/Features-25213B?style=for-the-badge"></a>
   <a href="SHADERS.md"><img alt="Shaders" src="https://img.shields.io/badge/Shaders-25213B?style=for-the-badge"></a>
-  <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-25213B?style=for-the-badge"></a>
   <a href="#honest-rendering-boundary"><img alt="Limitations" src="https://img.shields.io/badge/Limitations-25213B?style=for-the-badge"></a>
+  <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-25213B?style=for-the-badge"></a>
   <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-25213B?style=for-the-badge"></a>
   <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-25213B?style=for-the-badge"></a>
   <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-25213B?style=for-the-badge"></a>
@@ -65,7 +65,7 @@ OmniVisuals requires OmniShade 1.0.0 or newer in the target game. Setup verifies
 
 Screen-space effects cannot see hidden/off-screen geometry or reconstruct data the game never exposes. AutoLook cannot know monitor calibration or artistic intent from pixels alone. OmniVisuals supplies robust starting points, not a universal one-click guarantee.
 
-## Getting OmniVisuals
+## Get OmniVisuals
 
 OmniVisuals 1.0.0 is **free donationware**: payment is not required, there are no ads, and support is entirely optional. If it is useful to you and you want to fund continued work, use either official page:
 
