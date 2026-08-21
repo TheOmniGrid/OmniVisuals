@@ -95,3 +95,45 @@ modern, fast, no telemetry:
 **OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniWrappers**
 
 <sub>**OmniWrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
+
+<sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
+tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
+
+More at [github.com/TheOmniGrid](https://github.com/TheOmniGrid).
+
+---
+
+## Credit
+
+**OmniVisuals is an original clean-room shader suite**, written specifically for
+[OmniShade](https://github.com/TheOmniGrid/OmniShade). Its effects share depth, motion,
+scene-cut, HDR and temporal conventions so the stack behaves as one pipeline rather than a
+folder of unrelated filters.
+
+It requires OmniShade 1.0.0 or newer as its host, and is shader-only — no runtime DLL or
+SDK is ever added by it.
+
+ReShade and all other third-party names remain the property of their respective owners;
+separately identified third-party material remains subject to its own rights and licences.
+See [REPOSITORY_NOTICE.md](REPOSITORY_NOTICE.md) and [LICENSE.md](LICENSE.md).
+
+---
+
+## Contact
+
+This public repository accepts documentation corrections, consumer-facing feature requests
+and reproducible gaming compatibility reports — see [CONTRIBUTING.md](CONTRIBUTING.md).
+Please strip personal information from any logs or screenshots first.
+
+Security reports belong in private email, not a public issue:
+
+**omnivex@theomnigrid.biz**
+
+---
+
+<div align="center">
+
+Copyright © 2026 OmniVex · Free donationware · No ads · No telemetry<br>
+<sub>Requires OmniShade. ReShade and all game, GPU and platform names are the property of their respective owners.</sub>
+
+</div>
