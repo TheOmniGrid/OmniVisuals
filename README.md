@@ -13,13 +13,13 @@
   <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </p>
 
+<!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
-  <img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-8468FF?style=flat-square">
-  <img alt="Windows 11" src="https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white">
-  <img alt="Requires OmniShade" src="https://img.shields.io/badge/requires-OmniShade%201.0.0%2B-54D6FF?style=flat-square">
-  <img alt="Shader-only" src="https://img.shields.io/badge/package-shader--only-8468FF?style=flat-square">
-  <img alt="Five languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-6A5BDB?style=flat-square">
-  <img alt="No telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8A7BFF?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
 </p>
 
 <!-- Quick navigation. These chips jump to a README section or maintained
