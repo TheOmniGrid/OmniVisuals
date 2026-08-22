@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-animated.gif?v=20260822-symbol-reactor" alt="OmniVisuals — Coherent 4K visuals for OmniShade." width="100%">
+  <img src="assets/banner-animated.gif?v=20260822-premium-motion-v3" alt="OmniVisuals — Coherent 4K visuals for OmniShade." width="100%">
 </p>
 
 <h1 align="center">OmniVisuals</h1>
