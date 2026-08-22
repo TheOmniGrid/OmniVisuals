@@ -150,6 +150,6 @@ for repository scope and reporting guidance.
   <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
   <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
   <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
-  <sub>Copyright © 2026 OmniVex · Free donationware · No ads · No telemetry · <a href="LICENSE.md">Documentation license</a></sub><br>
+  <sub>Copyright © 2026 OmniVex · Free donationware · No ads · No telemetry · <a href="LICENSE.md">Legal &amp; licensing</a></sub><br>
   <sub>Requires OmniShade. ReShade and all game, GPU and platform names are the property of their respective owners.</sub>
 </p>
