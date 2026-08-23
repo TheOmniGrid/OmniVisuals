@@ -45,7 +45,7 @@
 
 OmniVisuals is an original clean-room shader suite designed specifically for OmniShade. Its effects share depth, motion, scene-cut, HDR and temporal conventions so the stack behaves as one pipeline instead of a folder of unrelated filters.
 
-![OmniVisuals capability map covering integrated lighting, temporal intelligence, cinematic finishing, and scalable 4K performance paths](assets/presentation/capabilities.png)
+![OmniVisuals capability map covering integrated lighting, temporal intelligence, cinematic finishing, and scalable 4K performance paths](assets/presentation/capabilities.png?v=20260823-centered-numbers-v2)
 
 ### Highlights
 
