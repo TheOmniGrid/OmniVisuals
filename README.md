@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-animated.gif?v=20260822-premium-motion-v3" alt="OmniVisuals — Coherent 4K visuals for OmniShade." width="100%">
+  <img src="assets/banner-animated.gif?v=20260825-current-symbol-v1" alt="OmniVisuals — Coherent 4K visuals for OmniShade." width="100%">
 </p>
 
 <h1 align="center">OmniVisuals</h1>
@@ -16,10 +16,10 @@
 <!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8A7BFF?style=flat-square">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2011-0078D4?style=flat-square">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20RO-8A7BFF?style=flat-square">
-  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
-  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2011-57C7FF?style=flat-square">
+  <img alt="Languages: 10" src="https://img.shields.io/badge/languages-10-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-00C66D?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-969FAB?style=flat-square&labelColor=30363D">
 </p>
 
 <!-- Quick navigation. These chips jump to a README section or maintained
@@ -59,7 +59,12 @@ OmniVisuals is an original clean-room shader suite designed specifically for Omn
 - **SupernovaFinish** — fused finishing path that reduces separate 4K passes.
 - Performance, Balanced 4K, Ultra 4K, Singularity and Fused profiles.
 - Shader-only installation: no DLLs, hooks, APIs or add-ons.
-- English, German, Spanish, French and Romanian installer UI.
+- Ten-language installer UI: English, German, Spanish, French, Romanian,
+  Russian, Simplified Chinese, Japanese, Korean, and Turkish.
+- A shared temporal contract for scene cuts, reactive masks, history resets,
+  HUD protection, HDR-domain changes, and compatible motion/depth inputs.
+- A focused input preview for diagnosing depth, motion, confidence, reactive
+  masks, scene cuts, history domains, and HDR headroom without enabling authoring tools.
 
 ## Honest rendering boundary
 
