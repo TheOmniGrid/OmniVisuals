@@ -6,6 +6,8 @@
 - VectorNova optical-flow fallback for games without a better motion source.
 - TemporalNexus scene-cut, reactive, disocclusion and HUD-protection state.
 - Shared color, depth, normal, motion and temporal conventions across effects.
+- OmniInputPreview troubleshooting for depth, motion, confidence, reactive
+  masks, scene cuts, history domains, and HDR headroom.
 
 ## Lighting and reflections
 
@@ -51,4 +53,16 @@
 - Fused 4K finishing path.
 
 No single profile can be optimal for every game, monitor and GPU. Use the closest starting point and tune only the effects the title needs.
+
+## Installer and release boundary
+
+- Separate shader-only installer with install, update, repair, Last Known Good,
+  and uninstall paths; it verifies a genuine OmniShade 1.0.0+ host first.
+- Ten live interface languages: English, Deutsch, Español, Français, Română,
+  Русский, 简体中文, 日本語, 한국어, and Türkçe.
+- The consumer suite contains gameplay shaders, shared includes, presets, LUTs,
+  and textures—not a runtime DLL, API hook, wrapper, telemetry collector, or account.
+- Full suite validation covers 31 effects, 49 shader sources, 10 presets, and
+  10 managed assets; representative real-game/GPU/API/HDR validation remains
+  necessary because screen-space inputs and performance vary by title.
 
